@@ -11,7 +11,7 @@ The dataset came from Roy Gerrard's [U.S. Educational Finances](https://www.kagg
 
 District achievement data was normally distributed, with the majority of districts reporting reading achievement at or around 50%. 
 
-![reading] (https://github.com/alexiskedo/School-District-Analysis/blob/main/graphs/District%20Averages.png)
+![reading](https://github.com/alexiskedo/School-District-Analysis/blob/main/graphs/District%20Averages.png)
 
 Eventually, the model was iterated evolved to include the following features: 
 - TOTALREV = Total Revenue (raw number) - combo of Federal, State, and Local Revenue
